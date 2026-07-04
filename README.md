@@ -15,7 +15,6 @@ You’ll soon find more about me and my plugins/projects on my <strong>portfolio
 - 🌱 I’m currently mastering <strong>Java and Python</strong> to write faster, cleaner Minecraft plugins
 - 🖥️ I manage <strong>VPS and Linux servers</strong> for game servers, panels and custom networking
 - 👨‍💻 Some of my plugins and projects are available on GitHub (more coming soon)
-- 💬 Discord: <strong>violenzanecessaria</strong>
 
 ---
 
