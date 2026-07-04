@@ -31,8 +31,8 @@ You’ll soon find more about me and my plugins/projects on my <strong>portfolio
 
 ### 🌐 Social & Communities
 
-- 💬 Discord: <strong>violenzanecessaria</strong>
-- 🕹️ Minecraft & game servers: [GravityMC]([https://discord.gg/gravitymc](https://discord.gg/uGq4Cpm3WW))
+- 💬 Discord: <strong>contrattare</strong>
+- 🕹️ Minecraft & game servers: [None (for now ._.)]([https://github.com/itzn3xi])
 - 👥 This README.md is forked by @ItsGabbooo! (Thank you!)
 ---
 
